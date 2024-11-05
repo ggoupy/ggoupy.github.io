@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "G. Goupy"
 title_separator          : "-"
 name                     : &name "Gaspard Goupy"
 description              : &description "PhD student"
