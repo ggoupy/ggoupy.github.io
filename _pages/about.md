@@ -23,4 +23,4 @@ My long-term goal is to enable on-chip training of SNNs on neuromorphic hardware
 
 ## Recent updates
 
-- **[Nov. 2024]** I will be attending [NeurIPS 2024](https://neurips.cc/) in Vancouver, Canada, from December 10th to 15th. Excited to present my [latest work](https://ggoupy.github.io/publication/2024-ncg) in a poster session!"
+- **[Nov. 2024]** I will be attending [NeurIPS 2024](https://neurips.cc/) in Vancouver, Canada, from December 10th to 15th. Excited to present my [latest work](https://ggoupy.github.io/publication/2024-ncg) in a poster session!
