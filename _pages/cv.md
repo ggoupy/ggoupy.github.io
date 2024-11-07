@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * **[Expected]** Ph.D in Computer Science, University of Lille (France), 2025
-  * 
 * M.S. in Computer Science, University Lyon 1 (France), 2022
   * Specialization in artificial intelligence
   * 1st year rank: 10/121
