@@ -23,8 +23,6 @@ My long-term goal is to enable on-chip training of SNNs on neuromorphic hardware
 
 ## Recent updates
 
-- **[Feb 2025]** I am looking for a research-oriented job in neuromorphic computing! I plan to defend my PhD in September 2025.
-
 - **[Nov 2024]** I will be attending [NeurIPS 2024](https://neurips.cc/) in Vancouver, Canada, from December 10th to 15th. Excited to present my [latest work](https://ggoupy.github.io/publication/2024-ncg) in a poster session!
 
 ![Poster for NeurIPS 24](https://ggoupy.github.io/images/poster_ncg_neurips24.png)
