@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), Espoo, Finland. I explore neuromorphic computing for wireless communication.
+I am currently a research scientist at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), Espoo, Finland. I explore neuromorphic computing for wireless communications.
 
 I obtained my PhD in computer science from University of Lille, France, in 2025. My research focused on efficient supervised learning in spiking neural networks.
 
